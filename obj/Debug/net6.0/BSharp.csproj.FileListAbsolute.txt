@@ -1,0 +1,15 @@
+C:\Users\mrgnh\OneDrive\Desktop\BSharp\obj\Debug\net6.0\BSharp.csproj.AssemblyReference.cache
+C:\Users\mrgnh\OneDrive\Desktop\BSharp\obj\Debug\net6.0\BSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrgnh\OneDrive\Desktop\BSharp\obj\Debug\net6.0\BSharp.AssemblyInfoInputs.cache
+C:\Users\mrgnh\OneDrive\Desktop\BSharp\obj\Debug\net6.0\BSharp.AssemblyInfo.cs
+C:\Users\mrgnh\OneDrive\Desktop\BSharp\obj\Debug\net6.0\BSharp.csproj.CoreCompileInputs.cache
+C:\Users\mrgnh\OneDrive\Desktop\BSharp\bin\Debug\net6.0\BSharp.exe
+C:\Users\mrgnh\OneDrive\Desktop\BSharp\bin\Debug\net6.0\BSharp.deps.json
+C:\Users\mrgnh\OneDrive\Desktop\BSharp\bin\Debug\net6.0\BSharp.runtimeconfig.json
+C:\Users\mrgnh\OneDrive\Desktop\BSharp\bin\Debug\net6.0\BSharp.dll
+C:\Users\mrgnh\OneDrive\Desktop\BSharp\bin\Debug\net6.0\BSharp.pdb
+C:\Users\mrgnh\OneDrive\Desktop\BSharp\obj\Debug\net6.0\BSharp.dll
+C:\Users\mrgnh\OneDrive\Desktop\BSharp\obj\Debug\net6.0\refint\BSharp.dll
+C:\Users\mrgnh\OneDrive\Desktop\BSharp\obj\Debug\net6.0\BSharp.pdb
+C:\Users\mrgnh\OneDrive\Desktop\BSharp\obj\Debug\net6.0\BSharp.genruntimeconfig.cache
+C:\Users\mrgnh\OneDrive\Desktop\BSharp\obj\Debug\net6.0\ref\BSharp.dll
