@@ -16,9 +16,8 @@ class Parser
             // print(tokens[i]);
             if (tokens[i] + " " + tokens[i+1].ToString().Substring(0, 6) == "PRINT STRING") {
                 string temp = tokens[i+1].ToString();
-                print(temp.Length);
-                print(temp);
-                Console.WriteLine(temp.Substring(8));
+                int length = -8 + temp.Length - 1;
+                Console.WriteLine(temp.Substring(8, length));
                 i++;
             }
         }
